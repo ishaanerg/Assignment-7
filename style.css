@@ -1,0 +1,23 @@
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    overflow-wrap:break-word;
+  }
+
+  .row {
+      background-color: rgb(226, 206, 245);
+  }
+
+  .header {
+      margin-bottom: 10px;
+      border-bottom: 1px solid;
+      border-top: 1px solid;
+      background-color: rgb(233, 233, 232);
+      height: 30px;
+  }
+
+  .title {
+      text-align: center;
+      background-color: white;
+  }
